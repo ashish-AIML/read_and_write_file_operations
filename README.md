@@ -54,6 +54,6 @@ The only limitation for [replace_index_with_zero](replace_index_with_zero.py) th
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
